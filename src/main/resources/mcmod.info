@@ -1,0 +1,8 @@
+[{
+  "modid": "borntobe",
+  "name": "Born To Be...",
+  "description": "Spawn non vanilla villagers in the world",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["RealGecko"]
+}]
